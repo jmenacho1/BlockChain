@@ -1,0 +1,8 @@
+=============== Nov 4, 2020 (EST) ===============
+19:00:47.109806 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:00:47.113779 db@open opening
+19:00:47.114777 version@stat F·[] S·0B[] Sc·[]
+19:00:47.117779 db@janitor F·2 G·0
+19:00:47.117779 db@open done T·3.9992ms
+19:00:47.137722 db@close closing
+19:00:47.138717 db@close done T·994.8µs
