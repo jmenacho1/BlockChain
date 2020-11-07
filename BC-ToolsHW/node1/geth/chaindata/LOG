@@ -31,3 +31,15 @@
 =============== Nov 5, 2020 (EST) ===============
 02:18:40.820881 db@close closing
 02:18:40.820881 db@close done T·0s
+=============== Nov 6, 2020 (EST) ===============
+23:17:23.667020 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:17:23.667020 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+23:17:23.667020 db@open opening
+23:17:23.668017 journal@recovery F·1
+23:17:23.672006 journal@recovery recovering @6
+23:17:23.674012 memdb@flush created L0@8 N·10 S·660B "H\x91\x9d..AT\x12,v632":"r\x00\x00..AT\x12,v634"
+23:17:23.679985 version@stat F·[3] S·52KiB[52KiB] Sc·[0.75]
+23:17:23.683975 db@janitor F·5 G·0
+23:17:23.683975 db@open done T·16.9555ms
+23:49:07.373008 db@close closing
+23:49:07.373008 db@close done T·0s
