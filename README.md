@@ -151,7 +151,7 @@ The Proof of Authority (PoA) algorithm is typically used for private blockchain 
 
         * Using that Node 2 address: 0x2E4616E7B34BF8A0B7eA6Be291Ed578277c3F9a3
 
-        * Using that Node 1 enode:
+        * Using that Node 1 enode: enode://a93cef7b8ecf0e0f3b9b29686686315d2cf37b3c8704a0a5e4fa63ecc9a0e1a8ea1eac44bdc5a9d897f632a024589ee34a579de8e7cb84ccd2a386077ad1aecb@127.0.0.1:30303
 
         * ./geth --datadir node2 --unlock "0x2E4616E7B34BF8A0B7eA6Be291Ed578277c3F9a3" --mine --port 30304 --bootnodes "enode://a93cef7b8ecf0e0f3b9b29686686315d2cf37b3c8704a0a5e4fa63ecc9a0e1a8ea1eac44bdc5a9d897f632a024589ee34a579de8e7cb84ccd2a386077ad1aecb@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
 
